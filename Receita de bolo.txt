@@ -4,3 +4,6 @@ Receita de bolo
  - leite
  - manteiga
  - açucar
+ - chocolate
+ - baunilha
+ - fermento
